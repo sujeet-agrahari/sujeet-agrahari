@@ -22,6 +22,9 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 💬 Ask me about anything [here](https://github.com/sujeet-agrahari/sujeet-agrahari/issues)
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
