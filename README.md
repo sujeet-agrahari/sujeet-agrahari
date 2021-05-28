@@ -36,6 +36,4 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 <a href="https://sujeet-agrahari.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=sujeet-agrahari.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-- name: Quote - README
-  uses: siddharth2016/quote-readme@0.1.1
 
