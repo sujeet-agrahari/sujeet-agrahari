@@ -23,7 +23,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
