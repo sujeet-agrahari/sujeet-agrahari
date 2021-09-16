@@ -23,7 +23,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
+<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
