@@ -17,7 +17,7 @@
 Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 
 - 🔭 I’m currently working on a project [Chatty](https://github.com/sujeet-agrahari/Chatty)
-- 🌱 I’m currently learning NestJs & Typescript
+- 🌱 I’m currently learning GraphQL & React
 - 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design) & [Node Express Clean Architecture](https://github.com/sujeet-agrahari/node-express-clean-architecture)
 - 💬 Ask me about anything [here](https://github.com/sujeet-agrahari/sujeet-agrahari/issues)
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
