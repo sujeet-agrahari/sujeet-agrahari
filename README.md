@@ -23,7 +23,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
