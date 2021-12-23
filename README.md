@@ -23,7 +23,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
