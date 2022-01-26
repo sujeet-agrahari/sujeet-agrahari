@@ -23,7 +23,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
+<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
