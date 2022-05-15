@@ -36,6 +36,15 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
 <code><img height="20" src="https://user-images.githubusercontent.com/22151975/130183536-1b24a4b5-ac45-43a7-b622-332e7ae9bff6.png"></code>
 
 
+**My Areas of Interest**
+- Programming & learning languages and architecture
+- Astronomy - discover and analysis using blogs and different sources
+- Browsing through reddit and 9gags
+- Travel & Nature
+- World Affairs and Geopolitics
+- Music & Singing(prefer alone :))
+- Tech and Gadgets - upcoming new tech or gadgets
+
 
 [![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
 
