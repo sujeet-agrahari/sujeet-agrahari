@@ -22,7 +22,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend engineer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
