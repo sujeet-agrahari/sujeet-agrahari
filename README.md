@@ -22,7 +22,7 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend engineer from India.
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
