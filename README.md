@@ -50,7 +50,8 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 <a href="https://sujeet-agrahari.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=sujeet-agrahari.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-
+</br>
+</br>
 
 **Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
 - I am interested in programming, learning different languages, and studying software architecture.
