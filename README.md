@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Sujeet Agrahari, a passionate self-taught backend engineer from India.
+Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend engineer hailing from India.
 
 
 - 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design) & [Node Express Clean Architecture](https://github.com/sujeet-agrahari/node-express-clean-architecture)
@@ -35,15 +35,14 @@ Hi, I'm Sujeet Agrahari, a passionate self-taught backend engineer from India.
 <code><img height="20" src="https://user-images.githubusercontent.com/22151975/130183536-1b24a4b5-ac45-43a7-b622-332e7ae9bff6.png"></code>
 
 
-**My Areas of Interest**
-- Programming & learning languages and architecture
-- Astronomy - discover and analysis using blogs and different sources
-- Browsing through reddit and 9gags
-- Travel & Nature
-- World Affairs and Geopolitics
-- Music & Singing(prefer alone :))
-- Tech and Gadgets - upcoming new tech or gadgets
-
+- I am interested in programming, learning different languages, and studying software architecture.
+- Astronomy fascinates me, and I enjoy discovering and analyzing new information through various sources such as blogs.
+- In my free time, I enjoy browsing through websites like Reddit and 9gag.
+- I have a passion for traveling and experiencing nature.
+- World affairs and geopolitics are subjects that I find interesting and like to stay informed about.
+- Music is a significant part of my life, and while I prefer singing alone, I also enjoy listening to various genres.
+- I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
+- I enjoy playing chess as a mental challenge.
 
 [![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
 
