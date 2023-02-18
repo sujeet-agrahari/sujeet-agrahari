@@ -34,7 +34,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22151975/130183536-1b24a4b5-ac45-43a7-b622-332e7ae9bff6.png"></code>
 
-
+**Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
 - I am interested in programming, learning different languages, and studying software architecture.
 - Astronomy fascinates me, and I enjoy discovering and analyzing new information through various sources such as blogs.
 - In my free time, I enjoy browsing through websites like Reddit and 9gag.
