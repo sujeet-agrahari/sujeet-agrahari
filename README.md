@@ -49,13 +49,13 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 | ------------- | ------------- |
 
 
-<a href="https://sujeet-agrahari.github.io">
+<a href="https://github.com/sujeet-agrahari/node-express-clean-architecture">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=node-express-clean-architecture&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://sujeet-agrahari.github.io">
+<a href="https://github.com/sujeet-agrahari/awesome-database-design">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=awesome-database-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://sujeet-agrahari.github.io">
+<a href="https://github.com/sujeet-agrahari/quick-links">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=quick-links&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://sujeet-agrahari.github.io">
