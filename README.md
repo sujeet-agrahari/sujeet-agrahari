@@ -44,9 +44,14 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
 - I enjoy playing chess as a mental challenge.
 
-[![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
+[![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://sujeet-agrahari.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=sujeet-agrahari.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=node-express-clean-architecture&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-
+<a href="https://sujeet-agrahari.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=awesome-database-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://sujeet-agrahari.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=quick-links&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
