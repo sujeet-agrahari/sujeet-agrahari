@@ -22,7 +22,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
+> <i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
@@ -44,6 +44,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
 - I enjoy playing chess as a mental challenge.
 
+><i>❝Just as the sun and moon take turns illuminating the sky, I am captivated by the complementary interplay of kebab-case and camelCase, working in harmony to craft elegant and functional code.❞</i>
 
 | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujeet's github stats" /></a> | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-agrahari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
