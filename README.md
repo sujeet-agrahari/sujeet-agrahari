@@ -22,7 +22,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
+<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
