@@ -22,7 +22,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ---
 **Languages and Tools:**  
