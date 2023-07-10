@@ -41,7 +41,7 @@ Autovacuum is on by default in PostgreSQL. To confirm, you can check by running 
 <a href="https://sujeet-agrahari.hashnode.dev//mastering-json-in-postgresql-efficient-storage-querying-and-mapping" title="Mastering JSON in PostgreSQL: Efficient Storage, Querying, and Mapping"><strong>Mastering JSON in PostgreSQL: Efficient Storage, Querying, and Mapping</strong></a>
 <br/> Over the past years, the importance of JSON data has grown significantly. JSON has emerged as the preferred choice for web developers, replacing other technologies like SOAP, plain XML, and custom APIs. It has become the de facto standard for data ex... </p> <br/> <br/>
 <p align="left">
-
+<a href="https://sujeet-agrahari.hashnode.dev//an-easy-way-to-install-and-manage-postgresql-on-mac" title="An easy way to install and manage PostgreSQL on Mac"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7FrRrNXPaLE/upload/b908892a4b0e734dc9b42a23dd53de0b.jpeg" alt="An easy way to install and manage PostgreSQL on Mac" width="250px" align="left" /></a>
 <a href="https://sujeet-agrahari.hashnode.dev//an-easy-way-to-install-and-manage-postgresql-on-mac" title="An easy way to install and manage PostgreSQL on Mac"><strong>An easy way to install and manage PostgreSQL on Mac</strong></a>
 <br/> Postgres.app is a full-featured PostgreSQL installation packaged as a standard Mac app. It includes everything you need to get started.
 Installation
