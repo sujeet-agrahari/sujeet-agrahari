@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
+<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Latest Blog Posts 👇
