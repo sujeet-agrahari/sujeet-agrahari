@@ -29,6 +29,13 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698236507807/96b9e67e-ef93-423d-99d8-fd5f59367f38.jpeg" alt="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application" width="250px" align="left" /></a>
+<a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><strong>Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application</strong></a>
+<br/> As software developers, we have a limited 'performance' coins. It's up to us to decide where to spend it, either on 'security' or 'user experience.' Make your choice wisely.
+
+Why do we need a refresh token?
+We need a refresh token to maintain user se... </p> <br/> <br/>
+<p align="left">
 <a href="https://sujeet-agrahari.hashnode.dev//mastering-postgresql-vacuuming" title="Mastering PostgreSQL Vacuuming"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_gOVBtmpkks/upload/0d9b1ebab2c8ef67c56dd5cefc860bd3.jpeg" alt="Mastering PostgreSQL Vacuuming" width="250px" align="left" /></a>
 <a href="https://sujeet-agrahari.hashnode.dev//mastering-postgresql-vacuuming" title="Mastering PostgreSQL Vacuuming"><strong>Mastering PostgreSQL Vacuuming</strong></a>
 <br/> Vacuuming is used for periodic maintenance of the PostgreSQL database.
@@ -45,12 +52,6 @@ Autovacuum is on by default in PostgreSQL. To confirm, you can check by running 
 Installation
 Download your version of PostgreSQL from here
 The dmg file comes with PostgreSQL and postgresapp GUI ... </p> <br/> <br/>
-<p align="left">
-<a href="https://sujeet-agrahari.hashnode.dev//angular-di-container-how-does-it-work" title="Angular DI Container: How does it work?"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/91AQt9p4Mo8/upload/4ecee1ad59d7848b704c542cf26bc477.jpeg" alt="Angular DI Container: How does it work?" width="250px" align="left" /></a>
-<a href="https://sujeet-agrahari.hashnode.dev//angular-di-container-how-does-it-work" title="Angular DI Container: How does it work?"><strong>Angular DI Container: How does it work?</strong></a>
-<br/> What is Depdency Injection?
-Dependency injection is basically providing the objects that an object needs (its dependencies) instead of having it construct them itself.
-An analogy to understand dependency injection is constructing a home. When buildin... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Languages and Tools:
