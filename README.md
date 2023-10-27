@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
+<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Latest Blog Posts 👇
