@@ -23,6 +23,8 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 <i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sujeet-agrahari/langs)](https://githubtrends.io)
+
 ### Latest Blog Posts 👇
 
 ---
