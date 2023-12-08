@@ -23,7 +23,6 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 <i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sujeet-agrahari/langs)](https://githubtrends.io)
 
 ### Latest Blog Posts 👇
 
@@ -85,4 +84,4 @@ The dmg file comes with PostgreSQL and postgresapp GUI ... </p> <br/> <br/>
 | <a href="https://github.com/sujeet-agrahari/node-express-clean-architecture"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=node-express-clean-architecture&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> | <a href="https://github.com/sujeet-agrahari/awesome-database-design"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=awesome-database-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
 | <a href="https://github.com/sujeet-agrahari/quick-links"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=quick-links&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> | <a href="https://sujeet-agrahari.github.io"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=sujeet-agrahari.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sujeet-agrahari/langs)](https://githubtrends.io)
