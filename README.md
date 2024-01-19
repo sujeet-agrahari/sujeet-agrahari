@@ -31,6 +31,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698236507807/96b9e67e-ef93-423d-99d8-fd5f59367f38.jpeg" alt="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application" width="250px" align="left" /></a>
+  
 <a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><strong>Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application</strong></a>
 <br/> As software developers, we have a limited 'performance' coins. It's up to us to decide where to spend it, either on 'security' or 'user experience.' Make your choice wisely.
 
