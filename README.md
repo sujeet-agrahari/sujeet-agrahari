@@ -46,6 +46,7 @@ Autovacuum is on by default in PostgreSQL. To confirm, you can check by running 
 <!-- HASHNODE_BLOG:END -->
 
 <br />
+
 ### Languages and Tools:
 
 ---
