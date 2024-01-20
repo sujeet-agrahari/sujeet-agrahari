@@ -45,7 +45,7 @@ Generally, it is enough to let vacuuming be performed by the autovacum process.
 Autovacuum is on by default in PostgreSQL. To confirm, you can check by running the command SHOW au... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-
+<br />
 ### Languages and Tools:
 
 ---
