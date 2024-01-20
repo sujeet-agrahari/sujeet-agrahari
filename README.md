@@ -43,9 +43,8 @@ We need a refresh token to maintain user se... </p> <br/> <br/>
 <br/> Vacuuming is used for periodic maintenance of the PostgreSQL database.
 Generally, it is enough to let vacuuming be performed by the autovacum process.
 Autovacuum is on by default in PostgreSQL. To confirm, you can check by running the command SHOW au... </p> <br/> <br/>
-<p align="left">
-<a href="https://sujeet-agrahari.hashnode.dev//mastering-json-in-postgresql-efficient-storage-querying-and-mapping" title="Mastering JSON in PostgreSQL: Efficient Storage, Querying, and Mapping"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/98o9htjuih0/upload/5bf6853d8bc0a7ce4c433b8a09dd45aa.jpeg" alt="Mastering JSON in PostgreSQL: Efficient Storage, Querying, and Mapping" width="250px" align="left" /></a>
 <!-- HASHNODE_BLOG:END -->
+
 
 ### Languages and Tools:
 
