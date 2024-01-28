@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Greetings, my name is Sujeet Agrahari, and I am a dedicated self-taught backend engineer hailing from India.
+Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer hailing from India.
 
 - 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design) and [Node Express Clean Architecture](https://github.com/sujeet-agrahari/node-express-clean-architecture)
 - 💬 Ask me about anything [here](https://github.com/sujeet-agrahari/sujeet-agrahari/issues)
