@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   ❞</i>
+<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
