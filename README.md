@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.❞</i>
+<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
