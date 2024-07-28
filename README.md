@@ -63,17 +63,6 @@ Autovacuum is on by default in PostgreSQL. To confirm, you can check by running 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-**Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
-
-- I am interested in programming, learning different languages, and studying software architecture.
-- Astronomy fascinates me, and I enjoy discovering and analyzing new information through various sources such as blogs.
-- In my free time, I enjoy browsing through websites like Reddit and 9gag.
-- I have a passion for traveling and experiencing nature.
-- World affairs and geopolitics are subjects that I find interesting and like to stay informed about.
-- Music is a significant part of my life, and while I prefer singing alone, I also enjoy listening to various genres.
-- I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
-- I enjoy playing chess as a mental challenge.
-
 <i>❝Just as the sun and moon take turns illuminating the sky, I am captivated by the complementary interplay of kebab-case and camelCase, working in harmony to craft elegant and functional code.❞</i>
 
 | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujeet's github stats" /></a> | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-agrahari&layout=compact&theme=buefy&hide_border=true" /></a> |
