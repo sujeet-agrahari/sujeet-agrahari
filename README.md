@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
