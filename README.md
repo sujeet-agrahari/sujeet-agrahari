@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
+<i>❝2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
