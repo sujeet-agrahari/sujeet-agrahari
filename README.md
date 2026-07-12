@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
