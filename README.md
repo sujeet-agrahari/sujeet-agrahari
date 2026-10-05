@@ -20,7 +20,7 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 - 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
+<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
